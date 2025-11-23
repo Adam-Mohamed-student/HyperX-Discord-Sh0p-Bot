@@ -17,27 +17,22 @@ It handles orders, messages, notifications, and some basic moderation tools.
 - **Notify Command:** pings a certain member and tells them to come to the channel where the command was used.
 
 ### Moderation Tools
-- Basic moderation commands (kick, ban, clear, etc., depending on what you added).
+- Basic moderation commands (kick, ban, clear, etc..).
 
 ## How to Run
   
 1. Install Node.js if you don't have it.
 2. Make sure you installed your bot’s dependencies with:
-' npm install dotenv discord.js ms axios nodemailer'
+`npm install dotenv discord.js ms axios nodemailer`
 
 3. Add your bot token inside an `.env` or config file.
 4. Start the bot:
-'node bot.js'
+`node bot.js`
 
 
 ## File Structure
 - **bot.js** → main bot file  
 - Other files and folders contain commands, handlers, or configs (depending on your setup).
-
-## Reminder
-Never put your Discord bot token inside your public code.  
-Use a `.env` file or environment variables instead.
-
 
 
 
