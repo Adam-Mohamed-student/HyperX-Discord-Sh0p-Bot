@@ -24,7 +24,7 @@ It handles orders, messages, notifications, and some basic moderation tools.
 1. Install `Node.js` if you don't have it.
 2. Install the required packages:
 `npm install dotenv discord.js ms axios nodemailer`
-3. Add your bot token inside an `.env` file or config file.
+3. Add your bot token inside an `.env` file and config file.
 4. Start the bot:
 `node bot.js`
 
