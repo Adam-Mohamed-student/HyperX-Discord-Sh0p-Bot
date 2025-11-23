@@ -1,0 +1,170 @@
+[
+  {
+    "userId": "1284172997481070666",
+    "channelId": "1331629637826121759",
+    "expirationTime": 1737557444987,
+    "pingLimit": 1,
+    "pingCount": 0
+  },
+  {
+    "userId": "504978928830775296",
+    "channelId": "1333532738703200268",
+    "expirationTime": 1738614179820,
+    "pingLimit": 2,
+    "pingCount": 0
+  },
+  {
+    "userId": "504978928830775296",
+    "channelId": "1333534338201157672",
+    "expirationTime": 1738614561076,
+    "pingLimit": 2,
+    "pingCount": 0
+  },
+  {
+    "userId": "866210915757719552",
+    "channelId": "1335702828630409340",
+    "expirationTime": 1741118769360,
+    "pingLimit": 3,
+    "pingCount": 0
+  },
+  {
+    "userId": "1146494578346700861",
+    "channelId": "1335862358102380585",
+    "expirationTime": 1738566603932,
+    "pingConfig": {
+      "here": 5,
+      "everyone": 20
+    },
+    "pingCounts": {
+      "here": 0,
+      "everyone": 0
+    }
+  },
+  {
+    "userId": "504978928830775296",
+    "channelId": "1370504894514991134",
+    "expirationTime": 1747429027854,
+    "pingConfig": {
+      "@here": 2
+    },
+    "pingCounts": {
+      "@here": 0
+    }
+  },
+  {
+    "userId": "1146494578346700861",
+    "channelId": "1371042371864891514",
+    "expirationTime": 1746954173981,
+    "pingConfig": {
+      "@everyone": 1
+    },
+    "pingCounts": {
+      "@everyone": 0
+    }
+  },
+  {
+    "userId": "1146494578346700861",
+    "channelId": "1371042485484130446",
+    "expirationTime": 1746954201059,
+    "pingConfig": {
+      "@everyone": 1
+    },
+    "pingCounts": {
+      "@everyone": 0
+    }
+  },
+  {
+    "userId": "1276229687592615950",
+    "channelId": "1373356129987334286",
+    "expirationTime": 1750096016812,
+    "pingConfig": {
+      "@everyone": 2
+    },
+    "pingCounts": {
+      "@everyone": 0
+    }
+  },
+  {
+    "userId": "1393927573549092927",
+    "channelId": "1438967403429232772",
+    "expirationTime": 1765738963354,
+    "pingConfig": {
+      "here": 2
+    },
+    "pingCounts": {
+      "here": 0
+    },
+    "slotName": "pointless",
+    "duration": 2592000000,
+    "createdBy": "1377543963749257258",
+    "createdAt": 1763146964112,
+    "allowedMentions": {
+      "@here": false,
+      "@everyone": false,
+      "here": true
+    },
+    "category": "Category 1"
+  },
+  {
+    "userId": "1436348781023985745",
+    "channelId": "1439861305006620693",
+    "expirationTime": 1765952086196,
+    "pingConfig": {
+      "@here": 1
+    },
+    "pingCounts": {
+      "@here": 0
+    },
+    "slotName": "diana",
+    "duration": 2592000000,
+    "createdBy": "1146494578346700861",
+    "createdAt": 1763360086592,
+    "allowedMentions": {
+      "@here": true,
+      "@everyone": false
+    },
+    "category": "Category 2"
+  },
+  {
+    "userId": "1284172997481070666",
+    "channelId": "1439907895524458566",
+    "expirationTime": 1765963194272,
+    "pingConfig": {
+      "@everyone": 2,
+      "@here": 1
+    },
+    "pingCounts": {
+      "@everyone": 1,
+      "@here": 0
+    },
+    "slotName": "kira",
+    "duration": 2592000000,
+    "createdBy": "1146494578346700861",
+    "createdAt": 1763371194631,
+    "allowedMentions": {
+      "@here": true,
+      "@everyone": true
+    },
+    "category": "Category 1"
+  },
+  {
+    "userId": "1410545569054724189",
+    "channelId": "1441699475730206762",
+    "expirationTime": 1764403140317,
+    "pingConfig": {
+      "@here": 1
+    },
+    "pingCounts": {
+      "@here": 0
+    },
+    "slotName": "ket",
+    "duration": 604800000,
+    "createdBy": "1377543963749257258",
+    "createdAt": 1763798340653,
+    "allowedMentions": {
+      "@here": true,
+      "@everyone": false
+    },
+    "category": "Category 2"
+  }
+]

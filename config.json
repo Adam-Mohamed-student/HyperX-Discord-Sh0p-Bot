@@ -1,0 +1,10 @@
+{
+  "token": "Your_Bot_Token",
+  "clientId": "Your_client_ID",
+  "guildId": "Your_Server_ID",
+  "email": {
+    "service": "gmail",
+    "user": "Your_Gmail_Address_the_bot_will_use_to_send_emails",
+    "pass": "your-app-password-from-google"
+  }
+}
